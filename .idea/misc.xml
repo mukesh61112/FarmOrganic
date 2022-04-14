@@ -5,22 +5,26 @@
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.195703125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout-w936dp/activity_login.xml" value="0.19453125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_cart.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_email_login.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_email_regi.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_flash_screen.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_login.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_order_by_category.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_otp_veri.xml" value="0.259375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_search.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/activity_sign_login.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/circular_image.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/fragment_cart.xml" value="0.25833333333333336" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/fragment_home.xml" value="0.2903645833333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/fragment_home.xml" value="0.4" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/fragment_register.xml" value="0.2453125" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/fragment_search.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/fragment_sign.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/home_notifi_image_slider_recycler.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/home_notifi_recycler.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/order_by_cate_recyclerview_cardv.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/layout/toolbar_layout.xml" value="0.259375" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/menu/bottom_nav_bar.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/FarmOrganic/app/src/main/res/menu/menu_nav.xml" value="0.259375" />

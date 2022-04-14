@@ -1,22 +1,21 @@
 package com.example.farmorganic.models;
 
 public class NotifiImageSlider {
-    String img;
 
-    public NotifiImageSlider(String img) {
-        this.img = img;
-    }
+    String imgUrl;
 
     public NotifiImageSlider() {
     }
 
-
-
-    public String getImg() {
-        return img;
+    public NotifiImageSlider(String imgUrl) {
+        this.imgUrl = imgUrl;
     }
 
-    public void setImg(String img) {
-        this.img = img;
+    public String getImgUrl() {
+        return imgUrl;
+    }
+
+    public void setImgUrl(String imgUrl) {
+        this.imgUrl = imgUrl;
     }
 }

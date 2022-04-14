@@ -9,19 +9,23 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.bumptech.glide.Glide;
 import com.example.farmorganic.R;
 import com.example.farmorganic.models.NotifiImageSlider;
+import com.squareup.picasso.Picasso;
 
-import java.util.List;
+import java.util.ArrayList;
 
 //public class NotifiImageSliderAdapter extends FirebaseRecyclerAdapter<NotifiImageSlider,NotifiImageSliderAdapter.NISAViewHolder> {
 public class NotifiImageSliderAdapter extends RecyclerView.Adapter<NotifiImageSliderAdapter.NISAViewHolder> {
-    List<NotifiImageSlider> notifiImageSliderList;
+
+   //private static final Tag ="NotifiImageSlider";
+
+    ArrayList<NotifiImageSlider> notifiImageSliderList;
     Context context;
 
-    public NotifiImageSliderAdapter(List<NotifiImageSlider> notifiImageSliderList) {
+    public NotifiImageSliderAdapter(Context context, ArrayList<NotifiImageSlider> notifiImageSliderList) {
         this.notifiImageSliderList = notifiImageSliderList;
+        this.context=context;
     }
 
     @NonNull
@@ -37,10 +41,8 @@ public class NotifiImageSliderAdapter extends RecyclerView.Adapter<NotifiImageSl
 
         NotifiImageSlider notifiImageSlider=notifiImageSliderList.get(position);
 
-
-        Glide.with(holder.itemView.getContext())
-                .load(notifiImageSlider.getImg())
-                .into(holder.imageView);
+        Picasso.get().load(notifiImageSlider.getImgUrl()).into(holder.imageView);
+        //Glide.with(HomeFragment.this).load(notifiImageSliderList.get(position).getImgUrl()).into(holder.imageView);
 }
 
 
