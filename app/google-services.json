@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455131841373",
+    "project_id": "organicfarm-bdb7a",
+    "storage_bucket": "organicfarm-bdb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455131841373:android:45cfc840c72f2bc03d9eb4",
+        "android_client_info": {
+          "package_name": "com.example.farmorganic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455131841373-8t7p5gj2ph465ag8fjfqg1sqhsghr2t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetx_bG0E6a_D-hhZrsf-0AzCHYeEbZhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455131841373-8t7p5gj2ph465ag8fjfqg1sqhsghr2t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

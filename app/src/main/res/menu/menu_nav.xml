@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <group android:checkableBehavior="single">
+       <item
+           android:id="@+id/account"
+           android:icon="@drawable/baseline_account_circle_black_24dp"
+           android:title="Account" />
+       <item
+           android:id="@+id/cart"
+           android:icon="@drawable/baseline_shopping_cart_black_24dp"
+           android:title="My Cart" />
+       <item
+           android:id="@+id/setting"
+           android:icon="@drawable/baseline_settings_black_24dp"
+           android:title="Setting" />
+       <item
+           android:id="@+id/about"
+           android:icon="@drawable/baseline_info_black_24dp"
+           android:title="About" />
+   </group>
+    <item android:title="support">
+        <menu>
+            <item
+                android:id="@+id/help"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="Help" />
+            <item
+                android:id="@+id/term"
+                android:icon="@drawable/baseline_support_black_24dp"
+                android:title="Term And Support" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/baseline_logout_black_24dp"
+                android:title="logout" />
+        </menu>
+    </item>
+</menu>
